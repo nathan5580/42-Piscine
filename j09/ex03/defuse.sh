@@ -1,0 +1,1 @@
+find . -anewer bmb.txt
